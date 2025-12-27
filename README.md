@@ -1,0 +1,2 @@
+# ai-chatbot-python
+A simple AI chatbot written in Python using NLTK for natural language processing. Includes training data, responses, and CLI interface for chatting.
